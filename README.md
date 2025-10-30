@@ -19,7 +19,6 @@ Each exercise includes an example of the expected result.
     "stock": 10,
     "origin": "Argentina"
   }
-  ...
 ]
 ```
 
